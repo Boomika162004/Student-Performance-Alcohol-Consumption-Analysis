@@ -41,4 +41,3 @@ Each model is trained and evaluated using:
 | KNN         | 76.00%         | 62.50%        | 0.63             |
 | Naive Bayes | 75.11%         | 87.50%        | 0.88             |
 
-> 🔍 Naive Bayes performed best on the test set based on accuracy and precision-recall.
